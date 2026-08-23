@@ -94,11 +94,11 @@ Orders climb steadily from 11am, peak at 1pm (61 orders), dip mid-afternoon, the
 
 ANALSYIS QUERIES:
 
- ============================================================================
+
 -- Food Delivery Analytics — Business Analysis Queries
 -- Table: orders  (loaded from data/cleaned/orders_cleaned.csv)
 -- Run with: sqlite3, or load the CSV into any SQL engine (Postgres/MySQL/BigQuery)
- ============================================================================
+
 
 1. Monthly revenue and order volume trend
 SELECT
@@ -216,6 +216,14 @@ GROUP BY day_type;
 
 REVENUE BY CITY:
 <img width="873" height="570" alt="image" src="https://github.com/user-attachments/assets/456e83d1-404b-4113-892e-940cabe32a3e" />
+
+
+
+
+LATE RATE TRAFFIC WEATHER:
+<img width="840" height="480" alt="image" src="https://github.com/user-attachments/assets/da3e6c64-6f07-40fc-93dd-0cff22e07e3a" />
+
+
 
 
 
