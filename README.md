@@ -212,8 +212,6 @@ GROUP BY day_type;
 
 
 
-
-
 REVENUE BY CITY:
 <img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/7d2cc316-9d08-4d62-8485-a2f0c42c1f9f" />
 
