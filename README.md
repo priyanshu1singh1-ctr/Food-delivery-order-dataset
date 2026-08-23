@@ -1,4 +1,4 @@
-<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/f616545b-ca93-4fee-a4dc-71ce3d1957cd" /># Food-delivery-order-dataset- management 
+Food-delivery-order-dataset- management 
 
 ├── data/
 │   ├── raw/Sales_analysis
