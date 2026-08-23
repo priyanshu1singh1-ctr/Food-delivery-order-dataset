@@ -213,6 +213,7 @@ GROUP BY day_type;
 
 
 REVENUE BY CITY:
+
 <img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/7d2cc316-9d08-4d62-8485-a2f0c42c1f9f" />
 
 
@@ -221,6 +222,26 @@ REVENUE BY CITY:
 
 LATE RATE TRAFFIC WEATHER:
 <img width="840" height="480" alt="image" src="https://github.com/user-attachments/assets/da3e6c64-6f07-40fc-93dd-0cff22e07e3a" />
+
+
+
+
+ORDERS BY HOUR 
+<img width="840" height="480" alt="image" src="https://github.com/user-attachments/assets/b2a7272f-4f72-44bf-a0a7-8e6e5609229a" />
+
+
+
+REVENUE BY SEGMENT 
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/47496a70-98d0-4865-913c-044e16c2209d" />
+
+
+
+
+WEEKLY REVENUE - OCT 2025
+<img width="840" height="480" alt="image" src="https://github.com/user-attachments/assets/4b4e4712-ad5f-4d79-b58d-60d521d363ed" />
+
+
+
 
 
 
